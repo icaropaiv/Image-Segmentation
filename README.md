@@ -1,5 +1,5 @@
 # Image-Segmentation
 
-Projeto da disciplina de Machine Learning pos-graduação CIn UFPE. O projeto trabalha com conjunto de dados de 7 imagens e será comparado algoritmos clássicos com algoritmo desenvolvido no artio do Prof Francisco de A. T. de Carvalho.
+Project for the CIn UFPE postgraduate Machine Learning course. The project works with a dataset of 7 labels. Classical algorithms were compared with the algorithm developed in the article by Prof Francisco de A. T. de Carvalho.
 
-O projeto foi desenvolvido pelos alunos Ícaro Josias Ferreira Paiva e Ítalo Alves Carneiro
+The project was developed by students Ícaro Josias Ferreira Paiva and Ítalo Alves Carneiro
